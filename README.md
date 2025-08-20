@@ -21,19 +21,10 @@ I specialize in creating **Web APIs** integrated with **SQL Server**, and I also
 
 ---
 
-## 📌 Featured Projects  
-
-- 📧 **[Mail Sender API](https://github.com/ahmedtobashahban21/Mail-Sender)** – Built with ASP.NET Core & MailKit for sending emails with attachments.  
-- 🌍 **[Map Downloader (WPF App)](https://github.com/ahmedtobashahban21/Map-Downloader)** – Desktop tool to download and manage map tiles efficiently.  
-- 🤖 **[NLP Projects](https://github.com/ahmedtobashahban21/)** – Text generation, summarization, sentiment analysis, and more.  
-
----
-
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-toba-shaban)  
-- 🐙 [GitHub](https://github.com/ahmedtobashahban21)  
-- 📧 **ahmedtobashaban21@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-toba-7378b0206/)  
+- 📧 **ahmedtobashabantest21@gmail.com**  
 
 ---
 
