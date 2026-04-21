@@ -2,7 +2,7 @@
 
 🎯 **Mid-Level .NET Developer | Backend Enthusiast | Problem Solver**  
 
-I’m passionate about building scalable and efficient applications using **ASP.NET Core** and **C#**, with nearly **2 years of experience** in backend development.  
+I’m passionate about building scalable and efficient applications using **ASP.NET Core** and **C#**, with nearly **3 years of experience** in backend development.  
 I specialize in creating **Web APIs** integrated with **SQL Server**, and I also have experience developing **desktop applications using WPF**.  
 
 ---
