@@ -1,31 +1,189 @@
-# Hi there 👋, I'm Ahmed Toba Shaban  
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:002050,50:0078D4,100:00A99D&height=200&section=header&text=Ahmed%20Toba%20Shaban&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=.NET%20Backend%20%E2%80%A2%20Business%20Central%20%E2%80%A2%20AL%20Developer&descAlignY=58&descSize=16&animation=fadeIn" />
 
-🎯 **Mid-Level .NET Developer | Backend Enthusiast | Problem Solver**  
+<div align="center">
 
-I’m passionate about building scalable and efficient applications using **ASP.NET Core** and **C#**, with nearly **3 years of experience** in backend development.  
-I specialize in creating **Web APIs** integrated with **SQL Server**, and I also have experience developing **desktop applications using WPF**.  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=0078D4&center=true&vCenter=true&width=640&lines=Building+Business+Central+extensions+in+AL;LS+Central+retail+solutions;ASP.NET+Core+Web+APIs+%2B+SQL+Server;Clean+code.+Fast+reports.+Happy+users." alt="Typing intro" />
 
----
+<br/>
 
-## 🛠️ Skills & Tools  
+<a href="https://www.linkedin.com/in/ahmed-toba-7378b0206/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ahmedtobashahban21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=ahmedtobashahban21&style=flat-square&color=0078D4&label=Profile+views" />
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+</div>
 
----
+<br/>
 
-## 📫 Connect with Me  
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> About me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-toba-7378b0206/)  
-- 📧 **ahmedtobashabantest21@gmail.com**  
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+I build **reliable backend systems** and **business solutions** on the Microsoft stack.
 
-⭐️ From [ahmedtobashahban21](https://github.com/ahmedtobashahban21)
+- 🔧 **~3 years** of backend development with **C#**, **ASP.NET Core** and **SQL Server**
+- 🧩 **Business Central developer**: **AL extensions** for **Dynamics 365 Business Central** and **LS Central**
+- 🌐 **Web APIs** and integrations between systems
+- 🖥️ **Desktop apps** with **WPF**
+- 🌱 Learning: Business Central architecture, performance and clean extension design
+
+</td>
+<td width="40%" valign="top">
+
+```yaml
+name: Ahmed Toba Shaban
+role:
+  - .NET Backend Developer
+  - Business Central (AL) Developer
+focus:
+  - Dynamics 365 Business Central
+  - LS Central (Retail)
+  - ASP.NET Core Web APIs
+loves:
+  - Fast reports
+  - Clean, safe data imports
+  - Solving real business problems
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ BUSINESS CENTRAL ═══════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> What I build in Business Central
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🧩</h3>
+<b>AL Extensions</b><br/>
+<sub>Page & table extensions, codeunits,<br/>event subscribers, enums</sub>
+</td>
+<td align="center" width="33%">
+<h3>🛒</h3>
+<b>LS Central Retail</b><br/>
+<sub>Transfers, purchases, stores,<br/>POS transactions, members</sub>
+</td>
+<td align="center" width="33%">
+<h3>📊</h3>
+<b>Reports</b><br/>
+<sub>Excel & RDLC layouts,<br/>in-memory caching for speed</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>🎨</h3>
+<b>Control Add-ins</b><br/>
+<sub>Custom UI with JS / HTML / CSS:<br/>drag-and-drop, dashboards</sub>
+</td>
+<td align="center">
+<h3>📥</h3>
+<b>Data Import</b><br/>
+<sub>Excel bulk import, full validation,<br/>all-or-nothing transactions</sub>
+</td>
+<td align="center">
+<h3>🔌</h3>
+<b>APIs & Integration</b><br/>
+<sub>API pages for mobile apps<br/>and external systems</sub>
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech stack
+
+<div align="center">
+
+<b>Business Central</b><br/><br/>
+<img src="https://img.shields.io/badge/AL_Language-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Business_Central-002050?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/LS_Central-00A99D?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+<br/><br/>
+
+<b>Languages, frameworks and tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,html,css,js,py,cpp,powershell,git,github&perline=12" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+
+</div>
+
+<!-- ═══════════════ FEATURED WORK ═══════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📥 Transfer Order Bulk Import
+One Excel file creates many transfer orders. Every row is checked first; **if anything is wrong, nothing is created**. Drag-and-drop add-in, barcode lookup, LS store checks.
+
+`AL` `Control Add-in` `Excel Buffer` `LS Central`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Store Dashboard
+A Role Center dashboard: sales KPIs, 7-day trend, monthly target and **drill-down cues** for purchase, transfer and stock documents.
+
+`AL` `JavaScript` `CSS` `JSON`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 Member Sales Report
+Fast Excel report on large POS data, using **in-memory caching** instead of repeated database reads.
+
+`AL` `Report` `Excel Layout`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔔 Scheduler Job Alerts & APIs
+In-app alerts when an LS scheduler job fails, plus **API pages** for inventory, purchasing, transfers and a wallet app.
+
+`AL` `Notifications` `API Pages`
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedtobashahban21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0078D4&icon_color=00A99D" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtobashahban21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0078D4" />
+
+<img src="https://streak-stats.demolab.com?user=ahmedtobashahban21&theme=tokyonight&hide_border=true&background=0d1117&ring=0078D4&fire=00A99D&currStreakLabel=0078D4" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedtobashahban21&bg_color=0d1117&color=00A99D&line=0078D4&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+<!-- ═══════════════ CONTACT ═══════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" width="28" /> Let's connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ahmed-toba-7378b0206/"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Toba-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ahmedtobashahban21@gmail.com"><img src="https://img.shields.io/badge/Gmail-ahmedtobashahban21-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>Open to Business Central, LS Central and .NET backend projects.</i>
+
+</div>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00A99D,50:0078D4,100:002050&height=120&section=footer" />
