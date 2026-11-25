@@ -25,7 +25,7 @@
 I build **reliable backend systems** and **business solutions** on the Microsoft stack.
 
 - 🔧 **~3 years** of backend development with **C#**, **ASP.NET Core** and **SQL Server**
-- 🧩 **Business Central developer**: **AL extensions** for **Dynamics 365 Business Central** and **LS Central**
+- 🧩 **Business Central developer**: **20+ AL solutions** delivered on **Dynamics 365 Business Central** and **LS Central**: apps, APIs, reports, integrations, dashboards
 - 🌐 **Web APIs** and integrations between systems
 - 🖥️ **Desktop apps** with **WPF**
 - 🌱 Learning: Business Central architecture, performance and clean extension design
@@ -55,42 +55,74 @@ loves:
 <!-- ═══════════════ BUSINESS CENTRAL ═══════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> What I build in Business Central
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Solutions_delivered-20%2B-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Platform-Business_Central_+_LS_Central-002050?style=for-the-badge" />
+
+</div>
+
 <table>
 <tr>
-<td align="center" width="33%">
-<h3>🧩</h3>
-<b>AL Extensions</b><br/>
-<sub>Page & table extensions, codeunits,<br/>event subscribers, enums</sub>
+<td width="50%" valign="top">
+
+### 📱 Apps & integrations
+- **Tuwijri Inventory app**: backend APIs for stock counts, purchases, purchases without a PO, returns, transfers, and users & permissions
+- **Loyalty points app**: connected to Business Central
+- **External loyalty API**: integration with a third-party loyalty provider
+- **Salla e-commerce integration**: online store connected to the system
+
 </td>
-<td align="center" width="33%">
-<h3>🛒</h3>
-<b>LS Central Retail</b><br/>
-<sub>Transfers, purchases, stores,<br/>POS transactions, members</sub>
-</td>
-<td align="center" width="33%">
-<h3>📊</h3>
-<b>Reports</b><br/>
-<sub>Excel & RDLC layouts,<br/>in-memory caching for speed</sub>
+<td width="50%" valign="top">
+
+### 📊 Reports
+- **Pending store requests**: HQ view of all stores, and a per-store view
+- **Returns report**: all stores, and per store
+- **POS Transaction Diff report**: invoices with refund errors
+- **Stock withdrawal report** for the inventory department
+- **Member report** and **Member sales report** (in-memory caching)
+
 </td>
 </tr>
 <tr>
-<td align="center">
-<h3>🎨</h3>
-<b>Control Add-ins</b><br/>
-<sub>Custom UI with JS / HTML / CSS:<br/>drag-and-drop, dashboards</sub>
+<td width="50%" valign="top">
+
+### 📦 Replenishment & stock
+- **Upload Transfer Order Bulk**: Excel import, all-or-nothing
+- **Stock Request**: no duplicate lines, quantities merged automatically
+- **Replen Stock Demand**: stock amount validation and outstanding quantity per location
+- **Retail Receiving**: Purchase Order type set automatically
+- **Location filter** per user
+
 </td>
-<td align="center">
-<h3>📥</h3>
-<b>Data Import</b><br/>
-<sub>Excel bulk import, full validation,<br/>all-or-nothing transactions</sub>
+<td width="50%" valign="top">
+
+### 💰 Statements & POS
+- **Open Statement → POS Transaction Diff**: finds invoices where a refund error changed the accounts and caused a store shortage
+- Linked report that lists every affected invoice
+
 </td>
-<td align="center">
-<h3>🔌</h3>
-<b>APIs & Integration</b><br/>
-<sub>API pages for mobile apps<br/>and external systems</sub>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Staff security
+- **Bulk supervisor credentials**: auto-generates a barcode and password for every branch supervisor, with a download of all barcodes plus an Excel file of details and new passwords
+- **Single supervisor reset**: the same for one supervisor, with their barcode and an Excel change log
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 Role Centers & dashboards
+- **Retail Warehouse**: cues for open WH transfers, WH transfers to receive, store-to-WH transfers
+- **Tuwj Store Manager**: transfers and purchases awaiting receipt
+- **Store Dashboard**: control add-in with KPIs, trend and drill-downs
+
 </td>
 </tr>
 </table>
+
+<sub>🛠️ Built with: page & table extensions · codeunits · event subscribers · API pages · Excel & RDLC reports · control add-ins (JS / HTML / CSS) · notifications</sub>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tech stack
